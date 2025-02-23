@@ -10,7 +10,22 @@ This repository contains comprehensive information and resources related to AI, 
 - [Sebastian Raschka's Blog](https://sebastianraschka.com/blog/)
 - [lilianweng](https://lilianweng.github.io/)
 - [Niklas Heidloff - IBM](https://heidloff.net/archives/)
-- [sequoiacap](https://www.sequoiacap.com/article/tag/ai/)  
+- [sequoiacap](https://www.sequoiacap.com/article/tag/ai/)
+- [Yoshua Bengio](https://yoshuabengio.org/)
+- [Sebastian Ruder](https://ruder.io/)
+- [inFERENCe](https://www.inference.vc/)
+- [Jay Alammar](https://jalammar.github.io/)
+- [Chip Huyen](https://huyenchip.com/)
+- [Eugene Yan](https://eugeneyan.com/writing/)
+- [Erik Bernhardsson](https://erikbern.com/)
+- [Otoro](https://blog.otoro.net/)
+- [arg min blog](http://www.argmin.net/)
+- [FastML](http://fastml.com/)
+- [Carlos E.Perez](https://intuitmachine.medium.com/)
+- [Sander Dieleman](https://benanne.github.io/)
+- [Jeremy Jordan](https://www.jeremyjordan.me/)
+- [George Ho](https://www.georgeho.org/blog/)
+- [Paul Bridger](https://paulbridger.com/)  
 
 ### Tutorials and Guides:
 | **Category**               | **Resource**                                  | **Link**                                              |
