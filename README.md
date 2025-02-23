@@ -17,6 +17,8 @@ This repository contains comprehensive information and resources related to AI, 
 |----------------------------|-----------------------------------------------|-------------------------------------------------------|
 | **AI Agents**              | Aman.ai                                       | [Aman.ai](https://aman.ai/primers/ai/agents/)         |
 |                            | Hugging Face                                  | [Hugging Face](https://huggingface.co/agents-course)   |
+| **RAG**                    | YouTube                                       | [LangChain](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)   |
+
 
 
 ### Papers and Publications:
