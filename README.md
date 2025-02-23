@@ -2,13 +2,21 @@
 This repository contains comprehensive information and resources related to AI, including Machine Learning, Generative AI, and Intelligent Agents.
 
 ### Research-Based Repos:
-- [Aishwarya's Repo](https://github.com/aishwaryanr/awesome-generative-ai-guide)  
+- [Aishwarya's Repo](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+- https://github.com/GokuMohandas/Made-With-ML
+-   
 
 ### AI Blogs:
 - [Sebastian Raschka's Blog](https://sebastianraschka.com/blog/)
-- [Niklas Heidloff - IBM](https://heidloff.net/archives/)  
+- [lilianweng](https://lilianweng.github.io/)
+- [Niklas Heidloff - IBM](https://heidloff.net/archives/)
+- [sequoiacap](https://www.sequoiacap.com/article/tag/ai/)  
 
 ### Tutorials and Guides:
+| **Category**               | **Resource**                                  | **Link**                                              |
+|----------------------------|-----------------------------------------------|-------------------------------------------------------|
+| **AI Agents**              | Aman.ai                                       | [Aman.ai](https://aman.ai/primers/ai/agents/)         |
+|                            | Hugging Face                                  | [Hugging Face](https://huggingface.co/agents-course)   |
 
 
 ### Papers and Publications:
@@ -19,5 +27,8 @@ This repository contains comprehensive information and resources related to AI, 
   
 ### Courses and Learning Resources:
 
+https://github.com/openai/openai-cookbook
 
-### Generative AI Resources:
+
+### Books:
+- [How to Scale Your Model A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/index)
